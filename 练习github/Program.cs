@@ -13,6 +13,8 @@ namespace 练习github
 
             Console.WriteLine("hello world");
 
+            Console.WriteLine("hello TEST");
+
         }
     }
 }
